@@ -1,11 +1,10 @@
+# Código perteneciente al Trabajo de Final del Máster en Ingeniería Computacional y Matemáticas 
 
-# Trabajo de Fin de Máster 
 ## Métodos de aprendizaje automático aplicados a la ciberseguridad: : Clasificación binaria de ejecutables del Sistema Operativo Windows.
-## Autor: Luis Alberto Glaría Silva
-## Tutor: Ángel Elbaz Sanz
-Código perteneciente al Trabajo de Final del Máster en Ingeniería Computacional y Matemáticas 
+  ***Autor: Luis Alberto Glaría Silva 
+     Tutor: Ángel Elbaz Sanz ***
+     
 ## Estructura del Repositorio
-
 
 - `datasets/`: Aquí se encuentran los conjuntos de datos utilizados por los algoritmos. Importante: estos archivos deben guardarse en la siguiente ruta de Google Drive para poder ejecutar los cuadernos correctamente: `/content/gdrive/MyDrive/malware_datasets/`.
 - `functions/`: Archivos auxiliares en Python que contienen las funciones utilizadas por la aplicación.
