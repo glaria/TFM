@@ -1,8 +1,8 @@
 # Código perteneciente al Trabajo Final del Máster en Ingeniería Computacional y Matemáticas 
 
 ## Métodos de aprendizaje automático aplicados a la ciberseguridad: : Clasificación binaria de ejecutables del Sistema Operativo Windows.
-  ***Autor: Luis Alberto Glaría Silva 
-     Tutor: Ángel Elbaz Sanz ***
+  ***Autor: Luis Alberto Glaría Silva***
+  ***Tutor: Ángel Elbaz Sanz ***
      
 ## Estructura del Repositorio
 
