@@ -1,7 +1,9 @@
 
-# Trabajo Fin de Máster Luis Alberto Glaría Silva
-
-Código perteneciente al Trabajo de Fin de Máster: Métodos de aprendizaje automático aplicados a la ciberseguridad: : Clasificación binaria de ejecutables del Sistema Operativo Windows.
+# Trabajo de Fin de Máster 
+## Métodos de aprendizaje automático aplicados a la ciberseguridad: : Clasificación binaria de ejecutables del Sistema Operativo Windows.
+## Autor: Luis Alberto Glaría Silva
+## Tutor: Ángel Elbaz Sanz
+Código perteneciente al Trabajo de Final del Máster en Ingeniería Computacional y Matemáticas 
 ## Estructura del Repositorio
 
 
